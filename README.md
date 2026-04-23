@@ -10,27 +10,29 @@ Machine Learning: Logistic Regression, Decision Trees, Naive Bayes, K-NN, Cluste
 Database Design: Schema Normalization (1NF–3NF), ERD Modeling, Data Integrity Database Schema Analysis and Observations
 Frameworks: CRISP-DM, KDD Process
 
-## 📊 Projects
-1. Hotel Guest Loyalty & Segmentation Analysis
-Objective: Solve declining guest loyalty by identifying root causes of churn.
-Methodology: Followed the CRISP-DM lifecycle to integrate disparate data silos (Maintenance Logs, Front-Desk, and Feedback).
-Insight: Used Clustering to define natural guest segments (e.g., "Luxury Vacationers" vs. "Budget Business Travelers"), identifying that technical service failures in maintenance logs were the "smoking gun" for negative reviews.
+## 📊 Featured Projects
 
-2. Social Media Engagement & Trend Discovery
-Objective: Evaluate if engagement velocity (likes, shares) reliably predicts trending status.
-Methodology: Conducted advanced EDA to identify multimodal and uniform distributions. Applied Spearman’s Rank Correlation and Residual Plot analysis to handle non-linear relationships and heteroscedasticity.
-Key Skill: Implemented Min-Max Scaling to normalize high-variance features for visual balance:
+### **1. Hotel Guest Loyalty Strategic Discovery**
+* **Objective:** Identify the root causes of declining repeat bookings despite stable occupancy.
+* **Methodology:** Integrated disparate data silos—front-desk records, unstructured guest feedback, and technical maintenance logs—following the **CRISP-DM** lifecycle.
+* **Key Insight:** Applied **Clustering** to discover natural guest segments (e.g., "Luxury Vacationers" vs. "Budget Business Travelers"). Identified that technical service failures (captured in maintenance logs) were the primary drivers of guest churn.
 
-## 🚀 Currently Learning
-- Machine Learning
-- Advanced Data Visualization
-- Data Storytelling
+### **2. Social Media Engagement & Trend Analysis**
+* **Objective:** Determine if engagement interactions serve as reliable leading indicators for trending algorithms.
+* **Technical Approach:** Conducted EDA on multimodal and uniform distributions. Used **Spearman’s Rank Correlation** to assess non-linear relationships and analyzed **Residual Plots** to diagnose heteroscedasticity.
+* **Feature Engineering:** Implemented Min-Max Scaling to normalize high-variance features for visual balance and machine learning readiness
 
-## 💡 Interests
-- Creating meaningful visualizations  
-- Data-driven decision making  
-- Business analytics discussions  
+### **3. Retail POS Database Schema Redesign**
+* **Objective:** Optimize a relational database for high-traffic Point-of-Sale (POS) reporting and data integrity.
+* **Execution:** Refactored the schema using **3NF Normalization** and established strict primary/foreign key constraints. Database Schema Analysis and Observations .pdf] Created optimized SQL views for real-time sales performance tracking.
 
-## 📫 Connect with Me
-- LinkedIn: [link]
-- Email: [email]
+### **4. TTMPC AI Prompt Architect**
+* **Objective:** Design a systematic framework for high-fidelity human-AI collaboration.
+* **Framework:** Leveraged the **TTMPC (Task, Tone, Medium, Persona, Constraints)** methodology to engineer precise AI workflows that gather context through diagnostics before executing technical tasks.
+
+## 💡 Analytical Philosophy
+
+* **EDA-First Diagnostics:** I treat Exploratory Data Analysis as a medical lab—verifying assumptions like normality, linearity, and homoscedasticity before "prescribing" a statistical model.
+* **Actionable Problem Solving:** I shift focus from "how to build" to "what the business needs to know," ensuring every analytical insight leads to a concrete management decision.
+* **The "80%":** I specialize in the heavy-lifting of Data Preparation—handling class imbalance (SMOTE), data cleansing, and feature construction—recognizing it as the true foundation of model accuracy.
+
