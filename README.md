@@ -26,10 +26,6 @@ Frameworks: CRISP-DM, KDD Process
 * **Objective:** Optimize a relational database for high-traffic Point-of-Sale (POS) reporting and data integrity.
 * **Execution:** Refactored the schema using **3NF Normalization** and established strict primary/foreign key constraints. Database Schema Analysis and Observations .pdf] Created optimized SQL views for real-time sales performance tracking.
 
-### **4. TTMPC AI Prompt Architect**
-* **Objective:** Design a systematic framework for high-fidelity human-AI collaboration.
-* **Framework:** Leveraged the **TTMPC (Task, Tone, Medium, Persona, Constraints)** methodology to engineer precise AI workflows that gather context through diagnostics before executing technical tasks.
-
 ## 💡 Analytical Philosophy
 
 * **EDA-First Diagnostics:** I treat Exploratory Data Analysis as a medical lab—verifying assumptions like normality, linearity, and homoscedasticity before "prescribing" a statistical model.
