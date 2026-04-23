@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 EJTeope | Aspiring Data Analyst
 
-<!--
-**nuggets0503/nuggets0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To Bridge the gap between technical data structures and business strategy. Currently pursuing a BS in Information Systems (Business Analytics), I act as an "analytical detective" who transforms raw metrics into actionable intelligence. My approach is rooted in an "EDA-First" philosophy, I ensure data integrity and statistical rigor before management decisions
 
-Here are some ideas to get you started:
+## 📊 Projects
+- Sales Dashboard Analysis  
+- Customer Segmentation  
+- Exploratory Data Analysis Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Machine Learning
+- Advanced Data Visualization
+- Data Storytelling
+
+## 💡 Interests
+- Creating meaningful visualizations  
+- Data-driven decision making  
+- Business analytics discussions  
+
+## 📫 Connect with Me
+- LinkedIn: [link]
+- Email: [email]
