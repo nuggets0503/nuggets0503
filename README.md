@@ -3,12 +3,12 @@
 To Bridge the gap between technical data structures and business strategy. Currently pursuing a BS in Information Systems (Business Analytics), I act as an "analytical detective" who transforms raw metrics into actionable intelligence. My approach is rooted in an "EDA-First" philosophy, I ensure data integrity and statistical rigor before management decisions
 
 ## 🛠️ Skills
-Programming & Querying: Python (Pandas, NumPy, SciPy), SQL (PostgreSQL, MySQL)
-Data Visualization: Power BI, Seaborn, Matplotlib
-Statistical Analysis: Hypothesis Testing (Pearson, Spearman, ANOVA), Regression, Correlation
-Machine Learning: Logistic Regression, Decision Trees, Naive Bayes, K-NN, Clustering
-Database Design: Schema Normalization (1NF–3NF), ERD Modeling, Data Integrity Database Schema Analysis and Observations
-Frameworks: CRISP-DM, KDD Process
+* Programming & Querying: Python (Pandas, NumPy, SciPy), SQL (PostgreSQL, MySQL)
+* Data Visualization: Power BI, Seaborn, Matplotlib
+* Statistical Analysis: Hypothesis Testing (Pearson, Spearman, ANOVA), Regression, Correlation
+* Machine Learning: Logistic Regression, Decision Trees, Naive Bayes, K-NN, Clustering
+* Database Design: Schema Normalization (1NF–3NF), ERD Modeling, Data Integrity Database Schema Analysis and Observations
+* Frameworks: CRISP-DM, KDD Process
 
 ## 📊 Featured Projects
 
