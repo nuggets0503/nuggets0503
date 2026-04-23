@@ -14,7 +14,7 @@ Frameworks: CRISP-DM, KDD Process
 
 ### **1. Hotel Guest Loyalty Strategic Discovery**
 * **Objective:** Identify the root causes of declining repeat bookings despite stable occupancy.
-* **Methodology:** Integrated disparate data silos—front-desk records, unstructured guest feedback, and technical maintenance logs—following the **CRISP-DM** lifecycle.
+* **Methodology:** Integrated disparate data silosfront-desk records, unstructured guest feedback, and technical maintenance logsfollowing the **CRISP-DM** lifecycle.
 * **Key Insight:** Applied **Clustering** to discover natural guest segments (e.g., "Luxury Vacationers" vs. "Budget Business Travelers"). Identified that technical service failures (captured in maintenance logs) were the primary drivers of guest churn.
 
 ### **2. Social Media Engagement & Trend Analysis**
@@ -28,7 +28,7 @@ Frameworks: CRISP-DM, KDD Process
 
 ## 💡 Analytical Philosophy
 
-* **EDA-First Diagnostics:** I treat Exploratory Data Analysis as a medical lab—verifying assumptions like normality, linearity, and homoscedasticity before "prescribing" a statistical model.
+* **EDA-First Diagnostics:** I treat Exploratory Data Analysis as a medical labverifying assumptions like normality, linearity, and homoscedasticity before "prescribing" a statistical model.
 * **Actionable Problem Solving:** I shift focus from "how to build" to "what the business needs to know," ensuring every analytical insight leads to a concrete management decision.
-* **The "80%":** I specialize in the heavy-lifting of Data Preparation—handling class imbalance (SMOTE), data cleansing, and feature construction—recognizing it as the true foundation of model accuracy.
+* **The "80%":** I specialize in the heavy-lifting of Data Preparationhandling class imbalance (SMOTE), data cleansing, and feature constructionrecognizing it as the true foundation of model accuracy.
 
