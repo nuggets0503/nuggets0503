@@ -2,6 +2,13 @@
 
 To Bridge the gap between technical data structures and business strategy. Currently pursuing a BS in Information Systems (Business Analytics), I act as an "analytical detective" who transforms raw metrics into actionable intelligence. My approach is rooted in an "EDA-First" philosophy, I ensure data integrity and statistical rigor before management decisions
 
+## 🎓 Current Research & Focus
+### **Undergraduate Thesis:
+I am currently serving as the one of the Data Analyst for my undergraduate thesis. My role involves:
+* **System Architecture & Data Flow:** Analyzing how data moves through various system layers to identify and resolve bottlenecks.
+* **Database Optimization:** Reviewing and refining schema designs and SQL queries to ensure maximum reliability and performance. 
+* **Data Governance:** Ensuring that all research data assets are secure, accurate, and compliant with academic and industry standards.
+
 ## 🛠️ Skills
 * Programming & Querying: Python (Pandas, NumPy, SciPy), SQL (PostgreSQL, MySQL)
 * Data Visualization: Power BI, Seaborn, Matplotlib
