@@ -17,16 +17,24 @@ I am currently serving as the one of the Data Analyst for my undergraduate thesi
 | :---: | :---: | :---: | :---: |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" /><br>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" /><br>Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" /><br>PostgreSQL | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI" /><br>Power BI |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" alt="SQL" /><br>SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" /><br>NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /><br>MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib" /><br>Matplotlib |
-| | **SciPy** | | **Seaborn** |
 
 ---
 
-### 🧠 Analytical Frameworks & Methodologies
+### 🧠 Core Competencies & Methodologies
 
-* **Statistical Analysis:** Hypothesis Testing (Pearson, Spearman, ANOVA), Regression, Correlation
-* **Machine Learning:** Logistic Regression, Decision Trees, Naive Bayes, K-Nearest Neighbors (K-NN), Clustering
-* **Database Design:** Schema Normalization (1NF–3NF), ERD Modeling, Data Integrity, Database Schema Analysis and Observations
-* **Frameworks:** CRISP-DM, Knowledge Discovery in Databases (KDD) Process
+* **Programming & Querying:** Python (Pandas, NumPy, SciPy), SQL (PostgreSQL, MySQL)
+* **Data Visualization:** Power BI, Seaborn, Matplotlib
+* **Advanced Analytics & ML:** Hypothesis Testing (Pearson, Spearman, ANOVA), Maximum Likelihood Estimation (MLE), Logistic Regression, Decision Trees, Naive Bayes, K-Nearest Neighbors (K-NN), Clustering
+* **Data Engineering & DB Design:** Schema Normalization (1NF–3NF), ERD Modeling, Data Integrity, Database Schema Analysis and Observations
+* **Frameworks & AI:** CRISP-DM, Knowledge Discovery in Databases (KDD) Process, TTMPC Prompt Engineering, TTMPC AI Prompt Generator
+
+---
+
+### 💡 Professional Strengths
+
+* **Diagnostic Consulting & BI Liaison:** Skilled at moving beyond "how to build" to focusing on "what the business needs to know." Expert at translating complex technical jargon into plain-language, actionable management advice.
+* **Data Preparation Expert:** Mastering the "80% effort" phase of data science—handling class imbalance (SMOTE), discretization, and complex data integration.
+* **Statistical Rigor:** Expert in probability-based outcomes and interpreting the "luck factor" (p-values) to ensure business decisions are driven by statistical significance, not chance.
 
 ## 📊 Featured Projects
 
