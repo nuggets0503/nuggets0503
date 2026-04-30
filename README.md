@@ -40,24 +40,33 @@ I am currently serving as the one of the Data Analyst for my undergraduate thesi
 
 ## 📊 Featured Projects
 
-### **1. Hotel Guest Loyalty Strategic Discovery**
+### **1. Strategic Credit Allocation for Financial Cooperatives (Lead Case Study)**
+* **Objective:** Optimize a $5M loan portfolio mix under default risk and social mandate constraints.
+* **Prescriptive Approach:** Developed a Linear Programming (LP) model using **PuLP** to maximize interest income while capping expected default loss at 3.5%.
+* **Executive Impact:** Directly linked code to Board-level decision making by identifying binding risk constraints and prescribing an optimal 66.7% allocation to Agricultural sectors.
+
+### **2. Seismic Intensity Forecasting & Geospatial Analysis**
+* **Objective:** Predict earthquake magnitudes based on geographic coordinates and focal depth.
+* **Technical Approach:** Conducted spatial EDA on multidimensional data (Lat/Long). Utilized **Multiple Linear Regression** to quantify how depth influences energy release (magnitude).
+* **Visualization:** Mapped seismic hotspots to identify high-variance geographic zones.
+
+### **3. Hotel Guest Loyalty Strategic Discovery**
 * **Objective:** Identify the root causes of declining repeat bookings despite stable occupancy.
 * **Methodology:** Integrated disparate data silosfront-desk records, unstructured guest feedback, and technical maintenance logsfollowing the **CRISP-DM** lifecycle.
 * **Key Insight:** Applied **Clustering** to discover natural guest segments (e.g., "Luxury Vacationers" vs. "Budget Business Travelers"). Identified that technical service failures (captured in maintenance logs) were the primary drivers of guest churn.
 
-### **2. Social Media Engagement & Trend Analysis**
+### **4. Social Media Engagement & Trend Analysis**
 * **Objective:** Determine if engagement interactions serve as reliable leading indicators for trending algorithms.
 * **Technical Approach:** Conducted EDA on multimodal and uniform distributions. Used **Spearman’s Rank Correlation** to assess non-linear relationships and analyzed **Residual Plots** to diagnose heteroscedasticity.
 * **Feature Engineering:** Implemented Min-Max Scaling to normalize high-variance features for visual balance and machine learning readiness
 
-### **3. Retail POS Database Schema Redesign**
+### **5. Retail POS Database Schema Redesign**
 * **Objective:** Optimize a relational database for high-traffic Point-of-Sale (POS) reporting and data integrity.
 * **Execution:** Refactored the schema using **3NF Normalization** and established strict primary/foreign key constraints. Database Schema Analysis and Observations .pdf] Created optimized SQL views for real-time sales performance tracking.
 
 ## 💡 Analytical Philosophy
 
-* **The Information Systems (IS) Lens:** I operate on the principle that data is only as valuable as the system that supports it. My analysis does not happen in a vacuum. I view every dataset as a product of the synergy between people, processes, and technology. This holistic perspective allows me to bridge the gap between technical back-end structures and high-level business strategy.
-* **EDA-First:** I treat Exploratory Data Analysis (EDA) as the essential "diagnostic" phase much like a medical lab before a prescription. I refuse the "blind application" of models. Instead, I perform rigorous assumption checks for normality, linearity, and homoscedasticity to ensure that the chosen statistical test is the most sound choice for that specific data distribution.
-* **Strategic Alignment:** In accordance with the CRISP-DM and KDD frameworks, my ultimate goal is not "high accuracy," but Actionable Intelligence. I prioritize the Business Understanding phase, focusing on the "Why" (management decisions) rather than just the "How" (programming). A project is only successful if it drives measurable outcomes, such as a positive Return on Investment (ROI) or a tangible increase in customer loyalty.
-* **Structural Integrity & Data Governance:** I advocate for the "80% Rule": acknowledging that data preparation cleaning, normalization, and integration is where the real value of an analyst is proven. I am obsessed with the five dimensions of data quality: Accuracy, Completeness, Consistency, Timeliness, and Believability. By enforcing 3NF Normalization and referential integrity at the source, I ensure that all downstream analytics are built on a "Golden Dataset"
-* **Ethical & Probabilistic Thinking:** Data mining is the art of turning a mountain of raw, messy information into a map. I utilize probabilistic modeling (like Logistic Regression and MLE) to understand likelihoods rather than just certainties. Furthermore, I remain committed to identifying algorithmic bias and addressing privacy concerns to ensure that data-driven decisions are both scalable and socially responsible. 
+* **🎯 Optimization & Prescriptive Logic:** I believe data should do more than just describe the past; it should prescribe the future. I use Linear Programming and Operations Research (OR) to solve resource allocation problems to ensure that business strategies are mathematically optimized for maximum ROI and minimum risk.
+* **🏗️ Structural Integrity & Multidimensional Data:** I am obsessed with the "80% Rule" of data preparation. Whether handling complex 3NF SQL schemas or multidimensional spatial data (Latitude/Longitude), I ensure that downstream analytics are built on a "Golden Dataset" that maintains referential integrity and geographical accuracy.
+* **🔍 EDA-First:** Much like a medical lab before a prescription, I perform rigorous assumption checks for normality, linearity, and homoscedasticity. I refuse the "blind application" of models, ensuring every statistical test is the soundest choice for that specific distribution.
+* **🤝 Strategic Alignment:** In accordance with CRISP-DM, my goal is not "high accuracy," but Actionable Intelligence. I prioritize the Business Understanding phase—focusing on the "Why" (management decisions) rather than just the "How" (programming).
