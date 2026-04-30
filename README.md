@@ -22,11 +22,13 @@ I am currently serving as the one of the Data Analyst for my undergraduate thesi
 
 ### 🧠 Core Competencies & Methodologies
 
-* **Programming & Querying:** Python (Pandas, NumPy, SciPy), SQL (PostgreSQL, MySQL)
-* **Data Visualization:** Power BI, Seaborn, Matplotlib
-* **Advanced Analytics & ML:** Hypothesis Testing (Pearson, Spearman, ANOVA), Maximum Likelihood Estimation (MLE), Logistic Regression, Decision Trees, Naive Bayes, K-Nearest Neighbors (K-NN), Clustering
-* **Data Engineering & DB Design:** Schema Normalization (1NF–3NF), ERD Modeling, Data Integrity, Database Schema Analysis and Observations
-* **Frameworks & AI:** CRISP-DM, Knowledge Discovery in Databases (KDD) Process, TTMPC Prompt Engineering, TTMPC AI Prompt Generator
+* **Prescriptive Analytics & Optimization:** Linear Programming (LP), Operations Research (OR), Resource Allocation Modeling.
+* **Geospatial Data Analysis:** Processing Multidimensional Spatial Data (Latitude/Longitude), Seismic Intensity Mapping.
+* **Programming & Querying:** Python (Pandas, NumPy, SciPy), SQL (PostgreSQL, MySQL).
+* **Data Visualization:** Power BI, Seaborn, Matplotlib, Folium Interactive Maps.
+* **Data Mining & Visual Analytics:** Weka, Orange.
+* **Advanced Analytics & ML:** Hypothesis Testing (Pearson, Spearman, ANOVA), Maximum Likelihood Estimation (MLE), Logistic Regression, Decision Trees, K-NN, Clustering.
+* **Data Engineering & DB Design:** Schema Normalization (1NF–3NF), ERD Modeling, Data Integrity, Database Schema Analysis.
 
 ---
 
