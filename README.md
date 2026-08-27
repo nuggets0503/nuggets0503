@@ -1,4 +1,4 @@
-# 👋 EJ Teope | Business Analytics & Information Systems
+# 👋 Hey! I'm EJ | Data & Business Analytics
 
 > **I investigate messy business data to make sure executives doesn't make expensive decisions on broken numbers.
 
