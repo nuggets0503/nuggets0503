@@ -1,72 +1,67 @@
-# 👋 EJTeope | Aspiring Data Analyst
+# 👋 EJ Teope | Business Analytics & Information Systems
 
-To Bridge the gap between technical data structures and business strategy. Currently pursuing a BS in Information Systems (Business Analytics), I act as an "analytical detective" who transforms raw metrics into actionable intelligence. My approach is rooted in an "EDA-First" philosophy, I ensure data integrity and statistical rigor before management decisions
+> **I investigate messy business data to make sure leadership doesn't make expensive decisions on broken numbers.
 
-## 🎓 Current Research & Focus
-### **Undergraduate Thesis:
-I am currently serving as the one of the Data Analyst for my undergraduate thesis. My role involves:
-* **System Architecture & Data Flow:** Analyzing how data moves through various system layers to identify and resolve bottlenecks.
-* **Database Optimization:** Reviewing and refining schema designs and SQL queries to ensure maximum reliability and performance. 
-* **Data Governance:** Ensuring that all research data assets are secure, accurate, and compliant with academic and industry standards.
+I currently pursue a **BS in Information Systems (Major in Business Analytics)** at West Visayas State University. I specialize in transforming raw, fragmented transactional data into actionable operational and financial intelligence. My approach is rooted in an **"EDA-First & Data-Integrity" philosophy** which identify data pipeline anomalies, eliminate leakage, and validate statistical distributions before guiding management to strategize.
 
-## 🛠️ My Tech Stack & Skillset
+---
 
-### Tools & Technologies
+## 🛠️ Tech Stack & Skillset
 
-| Languages | Data Manipulation | Databases | Visualization | Optimization |
+| Languages & Core | Data Engineering & Modeling | Databases | BI & Visualization | Frameworks & Standards |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" /><br>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" /><br>Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" /><br>PostgreSQL | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" /><br>Power BI | <img src="https://img.icons8.com/ios-filled/50/5992C6/settings.png" width="45" height="45" /><br>PuLP |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" /><br>SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" /><br>NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" /><br>MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="45" height="45" /><br>Matplotlib | **Linear Programming** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /><br>**Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" /><br>**Pandas / NumPy** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /><br>**PostgreSQL** | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" /><br>**Power BI** | **CRISP-DM** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" /><br>**SQL (3NF)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" /><br>**Scikit-Learn** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" /><br>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" /><br>**Plotly / Seaborn** | **ISO/IEC 25010** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" /><br>**Jupyter** | **PuLP (Linear Prog.)** | **Supabase / RLS | **Streamlit / Folium** | **Statistical Testing** |
 
 ---
 
-### 🧠 Core Competencies & Methodologies
+## 🧠 Core Competencies & Methodologies
 
-* **Prescriptive Analytics & Optimization:** Linear Programming (LP), Operations Research (OR), Resource Allocation Modeling.
-* **Geospatial Data Analysis:** Processing Multidimensional Spatial Data (Latitude/Longitude), Seismic Intensity Mapping.
-* **Programming & Querying:** Python (Pandas, NumPy, SciPy), SQL (PostgreSQL, MySQL).
-* **Data Visualization:** Power BI, Seaborn, Matplotlib, Folium Interactive Maps.
-* **Data Mining & Visual Analytics:** Weka, Orange.
-* **Advanced Analytics & ML:** Hypothesis Testing (Pearson, Spearman, ANOVA), Maximum Likelihood Estimation (MLE), Logistic Regression, Decision Trees, K-NN, Clustering.
-* **Data Engineering & DB Design:** Schema Normalization (1NF–3NF), ERD Modeling, Data Integrity, Database Schema Analysis.
+* **Forensic Data Auditing & Extraction:** Ledger reconstruction, historical typo correction, fuzzy name-matching resolution, and multi-sheet relational schema mapping.
+* **Leakage-Free Predictive Modeling:** Pre-application feature constraint enforcement, expanding-window historical aggregation (`.shift()`), and `StratifiedGroupKFold` validation.
+* **Prescriptive Analytics & Operations Research:** Linear Programming (PuLP), Capital Optimization, Portfolio Default Cap Modeling.
+* **Diagnostic & Explainable AI (XAI):** Decision Trees, Logistic Regression, Gaussian Naive Bayes, SHAP Feature Attribution.
+* **Econometrics & Robust Statistics:** Anderson-Darling Normality, Breusch-Pagan Heteroskedasticity, VIF Collinearity Auditing, Huber/Hampel M-Estimation.
 
 ---
 
-### 💡 Professional Strengths
+## 📊 Featured Case Studies & Projects
 
-* **Diagnostic Consulting & BI Liaison:** Skilled at moving beyond "how to build" to focusing on "what the business needs to know." Expert at translating complex technical jargon into plain-language, actionable management advice.
-* **Data Preparation Expert:** Mastering the "80% effort" phase of data science—handling class imbalance (SMOTE), discretization, and complex data integration.
-* **Statistical Rigor:** Expert in probability-based outcomes and interpreting the "luck factor" (p-values) to ensure business decisions are driven by statistical significance, not chance.
+### **1. 🏦 Integrated Management and Finance System for TTMPC with Parallel Risk Prediction, Debt Capacity Framework, and Loan Demand Forecasting using Time-Series Analysis (Undergraduate Thesis)**
+* **Domain:** Credit Risk Analytics & Financial Decision Support Systems
+* **Data Auditing & Engineering:** Reconstructed an institutional loan ledger across 932 loans and 237 members. Identified that initial parsers missed 287 loans and misclassified opening balances as payments across 719 loans. Resolved entity-matching bottlenecks across unlinked member registries.
+* **Business Discovery:** Uncovered that 70% of settled loans were cleared via same-day refinancing with larger balances. Proved that 60% of recurring borrowers were on a hidden debt-growth treadmill despite clean repayment histories.
+* **Modeling & Triage Engine:** Engineered 21 strictly pre-application features. Trained a `HistGradientBoostingClassifier` evaluated with 5-fold `StratifiedGroupKFold` across 7 random seeds. 
 
-## 📊 Featured Projects
+### **2. 💰 Strategic Credit Allocation for Financial Cooperatives**
+* **Domain:** Prescriptive Optimization & Portfolio Capital Management
+* **Approach:** Formulated a Linear Programming model in **Python (PuLP)** to allocate a $5,000,000 loan portfolio while enforcing a 3.5% default loss cap and agricultural lending mandates.
+* **Executive Impact:** Proved mathematically that Personal Loans (16% nominal yield) were unviable under the binding risk threshold, prescribing an optimal $483,333 annual return via a 66.7% Agriculture and 33.3% Micro-Enterprise allocation.
 
-### **1. Strategic Credit Allocation for Financial Cooperatives (Lead Case Study)**
-* **Objective:** Optimize a $5M loan portfolio mix under default risk and social mandate constraints.
-* **Prescriptive Approach:** Developed a Linear Programming (LP) model using **PuLP** to maximize interest income while capping expected default loss at 3.5%.
-* **Executive Impact:** Directly linked code to Board-level decision making by identifying binding risk constraints and prescribing an optimal 66.7% allocation to Agricultural sectors.
+### **3. 🌍 SDG 13: The Climate Change & Health Risk Paradox Dashboard**
+* **Domain:** Econometric Modeling & Interactive BI Architecture
+* **Approach:** Evaluated 4,950+ country-year records (1995–2023) modeling health vulnerability against GDP per capita, carbon emissions, and temperature anomalies.
+* **Statistical Rigor:** Resolved wealth-urbanization multicollinearity and deployed **Huber Robust Regression** ($R^2 = 0.758$) to account for severe heteroskedasticity.
 
-### **2. Seismic Intensity Forecasting & Geospatial Analysis**
-* **Objective:** Predict earthquake magnitudes based on geographic coordinates and focal depth.
-* **Technical Approach:** Conducted spatial EDA on multidimensional data (Lat/Long). Utilized **Multiple Linear Regression** to quantify how depth influences energy release (magnitude).
-* **Visualization:** Mapped seismic hotspots to identify high-variance geographic zones.
+### **4. 🔬 Clinical Breast Cancer Diagnostic Support System**
+* **Domain:** Supervised Machine Learning & Explainable AI (XAI)
+* **Approach:** Implemented a diagnostic triage classifier on the UCI Wisconsin dataset following the **CRISP-DM** lifecycle. Optimized specifically for clinical Sensitivity (Recall: 95.35%, Specificity: 98.59%) and integrated **SHAP force plots** for feature transparency.
 
-### **3. Hotel Guest Loyalty Strategic Discovery**
-* **Objective:** Identify the root causes of declining repeat bookings despite stable occupancy.
-* **Methodology:** Integrated disparate data silosfront-desk records, unstructured guest feedback, and technical maintenance logsfollowing the **CRISP-DM** lifecycle.
-* **Key Insight:** Applied **Clustering** to discover natural guest segments (e.g., "Luxury Vacationers" vs. "Budget Business Travelers"). Identified that technical service failures (captured in maintenance logs) were the primary drivers of guest churn.
+### **5. ⚡ SDG 7: Global Sustainable Energy Transition Dashboard**
+* **Domain:** SaaS-Grade BI Architecture & Energy Transition Analytics
+* **Approach:** Modeled two decades of energy metrics across 152 nations using **Streamlit, Folium, Plotly Sunbursts, and Tornado charts** to quantify the "Decarbonization Paradox" of top industrial emitters.
 
-### **4. Social Media Engagement & Trend Analysis**
-* **Objective:** Determine if engagement interactions serve as reliable leading indicators for trending algorithms.
-* **Technical Approach:** Conducted EDA on multimodal and uniform distributions. Used **Spearman’s Rank Correlation** to assess non-linear relationships and analyzed **Residual Plots** to diagnose heteroscedasticity.
-* **Feature Engineering:** Implemented Min-Max Scaling to normalize high-variance features for visual balance and machine learning readiness
-
-### **5. Retail POS Database Schema Redesign**
-* **Objective:** Optimize a relational database for high-traffic Point-of-Sale (POS) reporting and data integrity.
-* **Execution:** Refactored the schema using **3NF Normalization** and established strict primary/foreign key constraints. Database Schema Analysis and Observations .pdf] Created optimized SQL views for real-time sales performance tracking.
+---
 
 ## 💡 Analytical Philosophy
 
-* **🎯 Optimization & Prescriptive Logic:** I believe data should do more than just describe the past; it should prescribe the future. I use Linear Programming and Operations Research (OR) to solve resource allocation problems to ensure that business strategies are mathematically optimized for maximum ROI and minimum risk.
-* **🏗️ Structural Integrity & Multidimensional Data:** I am obsessed with the "80% Rule" of data preparation. Whether handling complex 3NF SQL schemas or multidimensional spatial data (Latitude/Longitude), I ensure that downstream analytics are built on a "Golden Dataset" that maintains referential integrity and geographical accuracy.
-* **🔍 EDA-First:** Much like a medical lab before a prescription, I perform rigorous assumption checks for normality, linearity, and homoscedasticity. I refuse the "blind application" of models, ensuring every statistical test is the soundest choice for that specific distribution.
-* **🤝 Strategic Alignment:** In accordance with CRISP-DM, my goal is not "high accuracy," but Actionable Intelligence. I prioritize the Business Understanding phase—focusing on the "Why" (management decisions) rather than just the "How" (programming).
+* **🎯 Prescriptive Decision Support:** Data must go beyond backward-looking reporting to prescribe optimal resource allocation under real-world constraints.
+* **🔍 Relentless Data Auditing:** A model is only as sound as the data beneath it. I prioritize raw data verification, leakage elimination, and distribution diagnostic checks before executing machine learning pipelines.
+* **🤝 Transparent Communication:** Bridge the gap between database architecture and executive stakeholders through honest, jargon-free data storytelling.
+
+---
+
+<p align="center">
+  <b>Let's Connect:</b> <a href="https://linkedin.com">LinkedIn</a> • <a href="mailto:your.email@example.com">Email</a>
+</p>
