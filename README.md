@@ -1,6 +1,6 @@
 # 👋 EJ Teope | Business Analytics & Information Systems
 
-> **I investigate messy business data to make sure leadership doesn't make expensive decisions on broken numbers.
+> **I investigate messy business data to make sure executives doesn't make expensive decisions on broken numbers.
 
 I currently pursue a **BS in Information Systems (Major in Business Analytics)** at West Visayas State University. I sit right between the database and the boardroom. I find calculation errors in raw ledgers, optimize budgets, and build dashboards that anyone on the team can immediately understand.
 
