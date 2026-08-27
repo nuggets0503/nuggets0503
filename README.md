@@ -20,7 +20,7 @@ I currently pursue a **BS in Information Systems (Major in Business Analytics)**
 
 * **Find the "Hidden Leaks" in Data:** A model is useless if the spreadsheet/excel beneath it is broken. I audit raw records, fix tracking errors, and make sure the data tells the truth before running any code.
 * **Prescribe the Best Financial Move:** Instead of just summarizing past numbers, I use mathematical optimization (Linear Programming) to calculate the best way to allocate funds under strict risk limits.
-* **Build Plain-English Dashboards:** Interactive tools with clear visual takeaways so non-technical managers don't have to decipher raw numbers.
+* **Simplify Dashboards:** Interactive tools with clear visual takeaways so non-technical managers don't have to decipher raw numbers.
 
 ---
 
