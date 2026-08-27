@@ -28,9 +28,9 @@ I currently pursue a **BS in Information Systems (Major in Business Analytics)**
 
 ### **1. 🏦 Integrated Management and Finance System for TTMPC with Parallel Risk Prediction, Debt Capacity Framework, and Loan Demand Forecasting using Time-Series Analysis (Undergraduate Thesis)**
 * **Domain:** Credit Risk Analytics & Financial Decision Support Systems
-**The Problem:** A local paper-based cooperative thought its loyal borrower were the safest members because their old loans always showed up as "fully settled."
-* **What I Found:** After rebuilding a 7-year ledger of 932 loans, I discovered that 70% of settled loans were actually paid off by taking out an even bigger loan on the same day[cite: 40]. Debt was silently growing for 60% of frequent borrowers[cite: 40].
-* **The Solution:** Built a simple 3-tier "Traffic Light" screening system (Green / Amber / Red) that flags high-risk accounts so staff can review them before approving more debt[cite: 40, 41].
+* **The Problem:** A local paper-based cooperative thought its loyal borrower were the safest members because their old loans always showed up as "fully settled."
+* **What I Found:** After rebuilding a 7-year ledger of 932 loans, I discovered that 70% of settled loans were actually paid off by taking out an even bigger loan on the same day. Debt was silently growing for 60% of frequent borrowers.
+* **The Solution:** Built a simple 3-tier "Traffic Light" screening system (Green / Amber / Red) that flags high-risk accounts so staff can review them before approving more debt.
 
 ### **2. 💰 Strategic Loan Portfolio for Financial Cooperatives**
 * **Domain:** Prescriptive Optimization & Portfolio Capital Management
