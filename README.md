@@ -65,6 +65,6 @@ I currently pursue a **BS in Information Systems (Major in Business Analytics)**
 
 <p align="center">
   <b>Let's Connect:</b> 
-  <a href="">LinkedIn</a> • 
+  <a href="www.linkedin.com/in/ejt8008">LinkedIn</a> • 
   <a href="ejhedteope@gmail.com">Email</a>
 </p>
