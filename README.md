@@ -26,11 +26,41 @@ I currently pursue a **BS in Information Systems (Major in Business Analytics)**
 
 ## 📊 Featured Case Studies & Projects
 
-### **1. 🏦 Integrated Management and Finance System for TTMPC with Parallel Risk Prediction, Debt Capacity Framework, and Loan Demand Forecasting using Time-Series Analysis (Undergraduate Thesis)**
-* **Domain:** Credit Risk Analytics & Financial Decision Support Systems
-* **The Problem:** A local paper-based cooperative thought its loyal borrower were the safest members because their old loans always showed up as "fully settled."
-* **What I Found:** After rebuilding a 7-year ledger of 932 loans, I discovered that 70% of settled loans were actually paid off by taking out an even bigger loan on the same day. Debt was silently growing for 60% of frequent borrowers.
-* **The Solution:** Built a simple 3-tier "Traffic Light" screening system (Green / Amber / Red) that flags high-risk accounts so staff can review them before approving more debt.
+## Integrated Management and Finance System for TTMPC with Parallel Risk Prediction, Debt Capacity Framework, and Loan Demand Forecasting using Time-Series Analysis
+*Undergraduate Thesis, BS Information Systems, West Visayas State University (CICT)*
+
+**Domain:** Credit risk analytics and financial decision support systems
+**Team:** Ashley Nicole B. Bulotaolo, Romelyn I. Delos Reyes, Nash Ervine A. Siaton, Gero Antoni T. Tabiolo, Erden Jhed D. Teope
+
+### The problem
+A paper-based cooperative (Tubungan Teachers' Multi-Purpose Cooperative) treated borrowers whose old loans showed as "fully settled" as its safest members. Loan processing was slow and management had no timely view of credit risk or cash needs.
+
+### What we found
+After rebuilding the loan ledger (932 Consolidated and Emergency loans):
+- About **70 of every 100** settled loans were cleared by taking a new loan.
+- Among the **138 members** with three or more Consolidated loans, borrowing grew for **83 (60%)**.
+
+### The solution
+A web-based system with role-based portals for staff and a responsive module for members, plus three decision-support components:
+
+| Component | What it does | Result |
+|---|---|---|
+| Parallel Risk Prediction Module | Gradient-boosted model scores each application on the day it is submitted (GREEN / AMBER / RED) | ROC-AUC 0.68; bands separated later-risky loans at about 8, 15 and 30 per 100 |
+| Debt Capacity Framework | Flags amortization above 40% of net take-home pay or amounts above the share-capital debt ceiling | Decision stays with staff and the Board of Directors |
+| Loan Demand Forecasting | 12-month forecasts from 1,407 loan releases | Forecast error reduced 16% to 47% vs. SARIMA |
+
+It also automates Member in Good Standing (MIGS) classification. In pilot testing, 10 staff and 5 members rated it Highly Satisfactory (ISO 9241-11 grand means 4.89 and 4.76; Technology Acceptance Model 4.99 and 4.97).
+
+### My role
+- **Data Analyst:** cleaned and prepared the loan data for the classification and forecasting models.
+- **Risk Model Developer:** built the risk prediction model.
+- **System Analyst:** mapped the loan lifecycle across roles; wrote the business-rule glossary, process inventory and test plan.
+- **Information Systems Auditor:** reviewed access controls (row-level security), data integrity and audit trails; documented findings with severity, evidence and recommendations.
+
+### Tech stack
+React (Vite) · FastAPI (Python) · Supabase (PostgreSQL, Auth, Row-Level Security) · scikit-learn-style gradient boosting · Rapid Application Development
+
+*Status: defense stage.*
 
 ### **2. 💰 Strategic Loan Portfolio for Financial Cooperatives**
 * **Domain:** Prescriptive Optimization & Portfolio Capital Management
