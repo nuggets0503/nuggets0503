@@ -26,7 +26,7 @@ I currently pursue a **BS in Information Systems (Major in Business Analytics)**
 
 ## 📊 Featured Case Studies & Projects
 
-## Integrated Management and Finance System for TTMPC with Parallel Risk Prediction, Debt Capacity Framework, and Loan Demand Forecasting using Time-Series Analysis
+## 1. Integrated Management and Finance System for TTMPC with Parallel Risk Prediction, Debt Capacity Framework, and Loan Demand Forecasting using Time-Series Analysis
 *Undergraduate Thesis, BS Information Systems, West Visayas State University (CICT)*
 
 **Domain:** Credit risk analytics and financial decision support systems
