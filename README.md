@@ -62,19 +62,19 @@ React (Vite) · FastAPI (Python) · Supabase (PostgreSQL, Auth, Row-Level Securi
 
 *Status: defense stage.*
 
-### **2. 💰 Strategic Loan Portfolio for Financial Cooperatives**
+### **2. Strategic Loan Portfolio for Financial Cooperatives**
 * **Domain:** Prescriptive Optimization & Portfolio Capital Management
 * **The Problem:** The organization decide how to distribute a $5,000,000 lending budget across micro-business, farming, and personal loans without exceeding a 3.5% default cap.
 * **The Finding:** Personal loans offered the highest interest rate (16%), but their 9% default risk ate up the entire safety buffer. 
 * **The Solution:** Mathematically proved that allocating 66.7% to agriculture and 33.3% to small enterprises generates the highest safe return ($483,333/year) while keeping risk under the legal ceiling.
 
-### **3. 🌍 SDG 13: The Climate Change & Health Risk Paradox Dashboard**
+### **3. SDG 13: The Climate Change & Health Risk Paradox Dashboard**
 * **Domain:** Econometric Modeling & Interactive BI Architecture
 * **The Problem:** Explore how rising global temperatures affect health vulnerability across 150+ countries.
 * **The Finding:** Wealthier nations produce higher emissions but suffer lower immediate health risks because of stronger infrastructure which leaves poorer, low-emitting nations to carry a poorer climate condition .
 * **The Solution:** Built an interactive 4-step dashboard with dedicated urban policy recommendations for ASEAN countries.
 
-### **4. 🔬 Clinical Breast Cancer Diagnostic Support System**
+### **4. Clinical Breast Cancer Diagnostic Support System**
 * **Domain:** Supervised Machine Learning & Explainable AI (XAI)
 **The Problem:** In medical screening, telling a sick patient they are healthy (a false negative) is a fatal mistake.
 * **The Solution:** Built a classification model that prioritizes catch rate (Recall: 95.35%) over simple accuracy. Paired every result with an explanation chart that shows exactly which tumor measurements triggered the warning so doctors can verify the reasoning.
@@ -83,9 +83,9 @@ React (Vite) · FastAPI (Python) · Supabase (PostgreSQL, Auth, Row-Level Securi
 
 ## 💡 How I Work
 
-* **🎯 Prescriptive Decision Support:** Data must go beyond backward-looking reporting to prescribe optimal resource allocation under real-world constraints.
-* **🔍 Relentless Data Auditing:** A model is only as sound as the data beneath it. I prioritize raw data verification, leakage elimination, and distribution diagnostic checks before executing machine learning pipelines.
-* **🤝 Transparent Communication:** Bridge the gap between database architecture and executive stakeholders through honest, jargon-free data storytelling.
+* **Prescriptive Decision Support:** Data must go beyond backward-looking reporting to prescribe optimal resource allocation under real-world constraints.
+* **Relentless Data Auditing:** A model is only as sound as the data beneath it. I prioritize raw data verification, leakage elimination, and distribution diagnostic checks before executing machine learning pipelines.
+* **Transparent Communication:** Bridge the gap between database architecture and executive stakeholders through honest, jargon-free data storytelling.
 
 1. **Check the Foundation First:** Most data errors come from human typos, missing columns, or bad spreadsheet formulas. I fix the data integrity before I touch any machine learning model.
 2. **Focus on Business Impact:** High accuracy means nothing if it doesn't solve a real operational problem.
