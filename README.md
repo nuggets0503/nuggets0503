@@ -87,9 +87,9 @@ React (Vite) · FastAPI (Python) · Supabase (PostgreSQL, Auth, Row-Level Securi
 * **Relentless Data Auditing:** A model is only as sound as the data beneath it. I prioritize raw data verification, leakage elimination, and distribution diagnostic checks before executing machine learning pipelines.
 * **Transparent Communication:** Bridge the gap between database architecture and executive stakeholders through honest, jargon-free data storytelling.
 
-1. **Check the Foundation First:** Most data errors come from human typos, missing columns, or bad spreadsheet formulas. I fix the data integrity before I touch any machine learning model.
-2. **Focus on Business Impact:** High accuracy means nothing if it doesn't solve a real operational problem.
-3. **Simplification:** If an executive or loan officer can't understand why a recommendation was made, the analysis has failed.
+* **Check the Foundation First:** Most data errors come from human typos, missing columns, or bad spreadsheet formulas. I fix the data integrity before I touch any machine learning model.
+* **Focus on Business Impact:** High accuracy means nothing if it doesn't solve a real operational problem.
+* **Simplification:** If an executive or loan officer can't understand why a recommendation was made, the analysis has failed.
 
 ---
 
